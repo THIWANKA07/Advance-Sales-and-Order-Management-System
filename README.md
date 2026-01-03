@@ -16,7 +16,7 @@ This web application is a advanced sales and order management system is a compre
 - Enhanced Free Issue Management
 - Facilitate Order Process follow-ups and documentation
 - Efficient and accurate discount management system
-- Upgraded Order summary generate (Bulk Convertion) 
+- Upgraded Order summary generate (Bulk Conversion) 
 - Provide easy access to data for research purposes
 
 
